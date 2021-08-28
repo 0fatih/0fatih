@@ -14,7 +14,7 @@
  </p>
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/MGYY2FIs8VrfW/giphy.gif?cid=ecf05e47bk5tdo0eactc948t56db1j67it4sfxbklp189k4w&rid=giphy.gif&ct=g" />
+<img align="right" height="270px" width="450px" alt="GIF" src=https://media3.giphy.com/media/0wj2tVYj4xnA7gAgIf/giphy.gif?cid=ecf05e47z5gjfg84ydf4tcvt51r6fo22xsqy9io30yg995ia&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm 20 years old Self-taught Blockchain developer from Turkey.</h3>
 </p>
