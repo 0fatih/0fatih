@@ -1,23 +1,20 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://0fatih.site">Fatih!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
-   
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=22&vCenter=true&width=440&height=45&lines=Blockchain+Developer;Avalanche+Blockchain+Enthusiast;Life-time+Learner"></a>
+</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/0fatih//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/0fatihfurkan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://0fatih.site"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
  </p>
-
-
-<div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Fatih Furkan Hatipoğlu | 💻 Blockchain Developer | 🛸 Turkey <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-</div> 
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/MGYY2FIs8VrfW/giphy.gif?cid=ecf05e47bk5tdo0eactc948t56db1j67it4sfxbklp189k4w&rid=giphy.gif&ct=g" />
 <p align="center">
   <h3> I'm 20 years old Self-taught Blockchain developer from Turkey.</h3>
 </p>
