@@ -59,44 +59,14 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="go" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="go" style="vertical-align:top; margin:4px">
-
-   
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/google_cloud_platform.svg   " alt="gc" style="vertical-align:top; margin:4px">
 </p>
-
-<!--
-### - Blogs 🌱
--->
-<!--
-<p align="center">
-  <a href="https://dev.to/hemant">
-    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-  </a>
-</p>
--->
-
-### - Podcast ⚡️
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
-
- ### - What i do
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
-   
-   
-<br />
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=0fatih&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
