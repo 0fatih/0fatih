@@ -67,6 +67,4 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/google_cloud_platform.svg   " alt="gc" style="vertical-align:top; margin:4px">
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=0fatih&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=0fatih&theme=react-dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
