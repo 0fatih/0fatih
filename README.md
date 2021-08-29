@@ -15,11 +15,14 @@
   <h3> I'm 20 years old Self-taught Blockchain developer from Turkey.</h3>
 </p>
 
- - 🚴🏼 Learning Go & JavaScript
- 
- - 💪 Experienced with Solidity & Python & Linux 
+- 🎯 Building apps on Avalanche
+- 💪 Experienced with Solidity & Python & Linux 
+
+- 🚴🏼 Learning Go & JavaScript
     
- - 🏋 Let's decentralize the world!
+- 🏋 Let's decentralize the world!
+
+-  
   
 <br /><br />
 <br />
