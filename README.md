@@ -15,7 +15,7 @@
   <h3> I'm 20 years old Self-taught Blockchain developer from Turkey.</h3>
 </p>
 
-- 🎯 Building apps on Avalanche
+- 🎯 Building DApps on Avalanche
 - 💪 Experienced with Solidity & Python & Linux 
 
 - 🚴🏼 Learning Go & JavaScript
