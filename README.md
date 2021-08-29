@@ -1,11 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://0fatih.site">Fatih!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=8A2BE2&size=22&vCenter=true&width=440&height=45&lines=Avalanche+Blockchain+Enthusiast;Arthur+Schopenhauer+Fan;Life-time+Learner"></a>
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/0fatih//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
@@ -14,28 +10,20 @@
  </p>
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src=https://media3.giphy.com/media/0wj2tVYj4xnA7gAgIf/giphy.gif?cid=ecf05e47z5gjfg84ydf4tcvt51r6fo22xsqy9io30yg995ia&rid=giphy.gif&ct=g" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media0.giphy.com/media/GcSqyYa2aF8dy/giphy.gif?cid=790b76112c082faeb5747c4abc774dac1bac230265868455&amp;rid=giphy.gif&amp;ct=g" />
 <p align="center">
   <h3> I'm 20 years old Self-taught Blockchain developer from Turkey.</h3>
 </p>
 
  - 🚴🏼 Learning Go & JavaScript
  
- - 💪 Solidity & Python & Linux  
+ - 💪 Experienced with Solidity & Python & Linux 
     
- - 🌫 Avalanche enthusiast, die for freedom 🔓
-
- - 🛸 Let's decentralize the world! 🏋🏼‍♂️
- 
- - Smart contracts are my passionate 🏄🏼
- 
- - All About living life at its best.
- 
- - 💙 Vim lover.
- 
- <p align="center">
-  <h4> Blockchain | Solidity | Avalanche </h4>
- </p>
+ - 🏋 Let's decentralize the world!
+  
+<br /><br />
+<br />
+<br />
 
 
 <!--  -->
