@@ -22,7 +22,7 @@
     
 - 🏋 Let's decentralize the world!
 
--  
+-  Any sufficiently advanced technology is indistinguishable from magic.
   
 <br /><br />
 <br />
