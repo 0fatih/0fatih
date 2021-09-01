@@ -22,7 +22,7 @@
     
 - 🏋 Let's decentralize the world!
 
--  Any sufficiently advanced technology is indistinguishable from magic.
+- ⛓️ Blockchain is the future
   
 <br /><br />
 <br />
