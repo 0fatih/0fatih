@@ -1,1 +1,1 @@
-pretend like there's some really cool stuff here
+pretend like there are some really cool stuff here
