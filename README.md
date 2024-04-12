@@ -1,1 +1,1 @@
-Think there is some cool shit in here.
+Think there is some cool things in here.
